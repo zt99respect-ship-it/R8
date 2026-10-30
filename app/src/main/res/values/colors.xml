@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="apple_dark_bg">#0A0A0C</color>
+    <color name="apple_tile_bg">#1C1C1E</color>
+    <color name="apple_tile_focus_stroke">#FFFFFF</color>
+    <color name="apple_text_secondary">#8E8E93</color>
+    <color name="apple_accent">#0071E3</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="glass_border">#2A2A2E</color>
+</resources>

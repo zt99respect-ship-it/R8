@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Apple TV 4K Launcher</string>
+    <string name="top_shelf_title">التطبيقات المثبتة</string>
+    <string name="favorites_title">المفضلة</string>
+    <string name="all_apps_title">جميع التطبيقات</string>
+    <string name="open_app">تشغيل</string>
+    <string name="pin_favorite">تثبيت في الصف الأمامي</string>
+    <string name="app_info">معلومات التطبيق</string>
+</resources>
